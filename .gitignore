@@ -3,5 +3,7 @@ node_modules
 .env.local
 .env.*.local
 
+test-results
+
 screenshots/
 screenshot-*.jpg
