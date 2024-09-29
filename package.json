@@ -7,9 +7,9 @@
     "postinstall": "playwright install && playwright install-deps"
   },
   "dependencies": {
-    "@playwright/test": "1.47.1",
+    "@playwright/test": "1.47.2",
     "moment": "^2.30.1",
-    "playwright": "1.47.1"
+    "playwright": "1.47.2"
   },
   "devDependencies": {
     "checkly": "^4.9.0",
